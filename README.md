@@ -1,4 +1,4 @@
-# 🌐 Manikiran Data Analyst Portfolio
+# 🌐 Shiva Bodige Data Analyst Portfolio
 
 Welcome to my Data Analyst Internship Portfolio. This website showcases my end-to-end data analytics projects completed during my internship, covering Data Wrangling, Exploratory Data Analysis, Business Intelligence, Dashboard Development, and Statistical Validation.
 
